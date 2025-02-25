@@ -46,7 +46,7 @@
 - 캠핑 후기 작성 및 댓글 기능
 - 유저 인증 및 즐겨찾기 기능
 
-🔗 [👉 프로젝트 링크](https://github.com/JJJmin777/Camping-Site)  
+🔗 [👉 프로젝트 링크](https://github.com/JJJmin777/Campgrounds) 
 
 ---
 
